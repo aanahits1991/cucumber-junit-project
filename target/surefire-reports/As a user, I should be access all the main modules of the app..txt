@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: As a user, I should be access all the main modules of the app.
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.401 s <<< FAILURE! - in As a user, I should be access all the main modules of the app.
+As a user, I should be access all the main modules of the app..As a user, I should be access all the main modules of the app.  Time elapsed: 0.401 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be access all the main modules of the app..As a user, I should be access all the main modules of the app.  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+

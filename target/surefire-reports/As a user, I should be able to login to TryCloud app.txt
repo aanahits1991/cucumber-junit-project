@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: As a user, I should be able to login to TryCloud app
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 12, Skipped: 0, Time elapsed: 0.566 s <<< FAILURE! - in As a user, I should be able to login to TryCloud app
+As a user, I should be able to login to TryCloud app.verify user login successfully "User7"  Time elapsed: 0.401 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login successfully "User7"  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login successfully "User34"  Time elapsed: 0.031 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login successfully "User34"  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login successfully "User99"  Time elapsed: 0.015 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login successfully "User99"  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login fail with invalid credentials "User9"  Time elapsed: 0.072 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login fail with invalid credentials "User9"  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login fail with invalid credentials "Wrong" #1  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login fail with invalid credentials "Wrong" #1  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login fail with invalid credentials "Wrong" #2  Time elapsed: 0.017 s  <<< ERROR!
+java.lang.NullPointerException
+
+As a user, I should be able to login to TryCloud app.verify user login fail with invalid credentials "Wrong" #2  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
